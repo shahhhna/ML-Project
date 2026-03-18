@@ -108,7 +108,7 @@ The findings of this project can help:
 
 ---
 
-## 📌 Future Enhancements
+##  Future Enhancements
 
 * Predictive modeling for cancer risk classification
 * Integration with real-time healthcare datasets
